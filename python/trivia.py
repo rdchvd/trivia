@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 class Game:
     def __init__(self):
         self.players = []
